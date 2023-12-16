@@ -4,6 +4,12 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<!-- snake -->
+  <div aligni="center">
+    <img src="https://github.com/1999azzar/blob/main/resources/img/grid-snake.svg"
+    alt="snake"/></a>
+  </div>
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Ismael! A passionate Software Developer from Brazil.
