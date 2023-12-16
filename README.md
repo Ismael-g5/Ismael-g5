@@ -1,6 +1,17 @@
-<h2 align="center">Olá!!!</h2>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Fala Chapa</h1></summary>
+</div>
 
-###
+
+<!-- Presentation -->
+<p>
+  Opa 👋, Eu sou o Ismael, Um apaixonado  Desenvolvimento e estudante de Softwares..
+
+  - Atualmente trabalho com PHP, mas precisamente em seu framework, Laravel, na maioria das vezes junto a Vue.js, a alem disso também desenvolvo em Drupal, um CMS PHP baseado no framework symphony <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+
+  - Ainda estou no começo da minha carreira como Progamador, mas pretendo um dia poder contrubuir com a comunidade, e poder trabalhar com machine learning. E no mais, sou Grato ao Senhor Jesus por tudo e todos
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismael-g5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
