@@ -3,7 +3,7 @@
     <summary><h1 style="display: inline-block">Fala Chapa</h1></summary>
 </div>
 
-
+---
 <!-- Presentation -->
 <p>
    👋 Eu sou o Ismael, Um apaixonado  Desenvolvedor e estudante de Softwares..
@@ -18,7 +18,7 @@
 
 </p>
 
-
+---
 
 ###
 
@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>-->
-
+---
 ###
 <!-- Portfolio -->
 ## Portfolio:
