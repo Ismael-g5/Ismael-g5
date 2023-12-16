@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ismael-g5/dismael-g5/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ismael-g5/ismael-g5/output/snake.svg" alt="Snake animation" />
 
 ###
