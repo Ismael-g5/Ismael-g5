@@ -30,11 +30,11 @@
 
 
 
-
-
-<!-- Portfolio -->
 <!-- GIF -->
 <img style="margin-top:80px;" align="right" height="150" src="https://i.imgflip.com/89kwfu.gif"  />
+
+<!-- Portfolio -->
+
 ## Portfolio:
 - [PHP(LARAVEL) - App Locadora Carros](https://github.com/Ismael-g5/app_locadora_carros)
 - [PHP(LARAVEL) - App Super Gestão](https://github.com/Ismael-g5/App-Super-Gestao)
