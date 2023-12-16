@@ -6,11 +6,16 @@
 
 <!-- Presentation -->
 <p>
-  Opa 👋, Eu sou o Ismael, Um apaixonado  Desenvolvimento e estudante de Softwares..
+   👋 Eu sou o Ismael, Um apaixonado  Desenvolvimento e estudante de Softwares..
 
-  - Atualmente trabalho com PHP, mas precisamente em seu framework, Laravel, na maioria das vezes junto a Vue.js, a alem disso também desenvolvo em Drupal, um CMS PHP baseado no framework symphony <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
+
+  - Atualmente trabalho com PHP, mas precisamente em seu framework, Laravel, na maioria das vezes junto a Vue.js, a alem disso também desenvolvo em Drupal, um CMS PHP baseado no framework symphony 
 
   - Ainda estou no começo da minha carreira como Progamador, mas pretendo um dia poder contrubuir com a comunidade, e poder trabalhar com machine learning. E no mais, sou Grato ao Senhor Jesus por tudo e todos
+</details>
+
 </p>
 
 <div align="center">
