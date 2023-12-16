@@ -42,8 +42,4 @@
 
 <br clear="both">
 
-![Snake Animation](https://github.com/ismael-g5/ismael-g5/blob/output/github-contribution-grid-snake.svg)
-
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=ismael-g5&repo=ismael-g5&theme=react)](https://github.com/ismael-g5/ismael-g5/ismael-g5)
-
 ###
