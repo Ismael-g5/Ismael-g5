@@ -4,9 +4,9 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou trabalhando como freelancer ...
+  - 🔭 Atualmente estou trabalhando como Desenvolvedor Web PHP ...
   <br>
-- 🌱 Atualmente estou estudando react, typescript, Sass, Tailwind css ...
+- 🌱 Atualmente estou estudando laravel, Python, Drupal ...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
@@ -27,7 +27,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ismael-g5&show_icons=true" />
 </picture>
 </div>
 <br>
