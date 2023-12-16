@@ -28,10 +28,10 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<img align="right" height="150" src="https://i.imgflip.com/89kwfu.gif"  />
 </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/89kwfu.gif"  />
+
 
 <!--<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
