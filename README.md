@@ -35,14 +35,14 @@
 <!-- Portfolio -->
 
 ## Portfolio:
+<img style="margin-top:80px;" align="right" height="150" src="https://i.imgflip.com/89kwfu.gif"  />
+
 - [PHP(LARAVEL) - App Locadora Carros](https://github.com/Ismael-g5/app_locadora_carros)
 - [PHP(LARAVEL) - App Super Gestão](https://github.com/Ismael-g5/App-Super-Gestao)
 - [Drupal - Site FGV](https://fgv-ptr.avanz.com.br/)
 - [WordPress - Site Marquise Infraestrutura](https://www.marquiseinfraestrutura.com.br/)
 - [PHP(LARAVEL) - Wige Academia](https://phplaravel-970517-4024334.cloudwaysapps.com)
 
-  <!-- GIF -->
-<img style="margin-top:80px;" align="right" height="150" src="https://i.imgflip.com/89kwfu.gif"  />
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
