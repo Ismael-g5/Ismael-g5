@@ -28,7 +28,7 @@
 
 <!-- GIF -->
 <p align="left">
-<img align="right" height="150" src="https://i.imgflip.com/89kwfu.gif"  />
+<img style="margin-top:80px;" align="right" height="150" src="https://i.imgflip.com/89kwfu.gif"  />
 </p>
 
 
