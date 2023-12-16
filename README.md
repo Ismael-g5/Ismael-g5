@@ -50,7 +50,7 @@
 - [PHP(LARAVEL) - App Locadora Carros](https://github.com/Ismael-g5/app_locadora_carros)
 - [PHP(LARAVEL) - App Super Gestão](https://github.com/Ismael-g5/App-Super-Gestao)
 - [Drupal - Site FGV](https://fgv-ptr.avanz.com.br/)
-- [WordPress](https://www.marquiseinfraestrutura.com.br/)
+- [WordPress - Site Marquise Infraestrutura](https://www.marquiseinfraestrutura.com.br/)
 - [PHP(LARAVEL) - Wige Academia](https://phplaravel-970517-4024334.cloudwaysapps.com)
 
 ## 🔥 Skills
@@ -61,7 +61,14 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+        <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+
+
+
+
   </div>
   
   <!-- Skills: Tools & Frameworks -->
