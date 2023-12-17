@@ -44,7 +44,7 @@
 - [PHP(LARAVEL) - Wige Academia](https://phplaravel-970517-4024334.cloudwaysapps.com)
 
 
-## 🔥 Skills
+## Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
