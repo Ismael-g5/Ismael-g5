@@ -34,7 +34,7 @@
 
 <!-- Portfolio -->
 
-## Portfolio:
+## Portfolio
 <img style="margin-top:80px;" align="right" height="150" src="https://i.imgflip.com/89kwfu.gif"  />
 
 - [PHP(LARAVEL) - App Locadora Carros](https://github.com/Ismael-g5/app_locadora_carros)
