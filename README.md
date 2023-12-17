@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-   👋 Eu sou o Ismael, Um apaixonado  Desenvolvedor e estudante de Softwares..
+   👋 Eu sou o Ismael, Um apaixonado  Desenvolvedor e estudante de Softwares...
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
