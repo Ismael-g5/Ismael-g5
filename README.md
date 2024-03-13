@@ -2,7 +2,20 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Fala Chapa</h1></summary>
 </div>
-
+<script>
+function copyEmail() {
+  var emailInput = document.getElementById("emailInput");
+  emailInput.style.display = "block"; // Exibe o input
+  emailInput.select(); // Seleciona o conteúdo do input
+  document.execCommand("copy"); // Copia o conteúdo selecionado
+  emailInput.style.display = "none"; // Oculta o input
+  var copiedMessage = document.getElementById("copiedMessage");
+  copiedMessage.style.display = "inline"; // Exibe a mensagem de e-mail copiado
+  setTimeout(function() {
+    copiedMessage.style.display = "none"; // Oculta a mensagem após 2 segundos
+  }, 2000);
+}
+</script>
 
 <!-- Presentation -->
 <p>
