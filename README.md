@@ -2,22 +2,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Fala Chapa</h1></summary>
 </div>
-<div class="d-none">
-<script>
-function copyEmail() {
-  var emailInput = document.getElementById("emailInput");
-  emailInput.style.display = "block"; // Exibe o input
-  emailInput.select(); // Seleciona o conteúdo do input
-  document.execCommand("copy"); // Copia o conteúdo selecionado
-  emailInput.style.display = "none"; // Oculta o input
-  var copiedMessage = document.getElementById("copiedMessage");
-  copiedMessage.style.display = "inline"; // Exibe a mensagem de e-mail copiado
-  setTimeout(function() {
-    copiedMessage.style.display = "none"; // Oculta a mensagem após 2 segundos
-  }, 2000);
-}
-</script>
-</div>
+
 
 <!-- Presentation -->
 <p>
@@ -91,9 +76,7 @@ function copyEmail() {
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/ismael-guedes-da-silva-00b510226/" target='_blanck'><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<button id="copyEmailButton" onclick="copyEmail()">Copiar E-mail</button>
-<span id="copiedMessage" style="display:none;">E-mail copiado!</span>
-<input type="text" value="seuemail@example.com" id="emailInput" style="display:none;">
+
 
 </div>
 
