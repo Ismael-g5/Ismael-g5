@@ -2,6 +2,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Fala Chapa</h1></summary>
 </div>
+<div class="d-none">
 <script>
 function copyEmail() {
   var emailInput = document.getElementById("emailInput");
@@ -16,6 +17,7 @@ function copyEmail() {
   }, 2000);
 }
 </script>
+</div>
 
 <!-- Presentation -->
 <p>
